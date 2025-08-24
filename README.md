@@ -67,10 +67,10 @@ Enter values for soil and environmental parameters.
 *Click Recommend Crop*
 See the recommended crop displayed instantly.
 
-⚙️ Important Notes
-The model was trained on scaled data; the app uses the same scaler to transform inputs before making predictions. This ensures accuracy and consistency.
-Keep the feature order consistent between training and inference.
-This project demonstrates an end-to-end machine learning workflow — from training to deployment.
+- ⚙️ Important Notes:
+- The model was trained on scaled data; the app uses the same scaler to transform inputs before making predictions. This ensures accuracy and consistency.
+- Keep the feature order consistent between training and inference.
+- This project demonstrates an end-to-end machine learning workflow — from training to deployment.
 
 - 📁 Project Structure
 - ├── app.py            # Streamlit app for prediction UI
