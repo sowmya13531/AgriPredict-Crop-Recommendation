@@ -1,4 +1,4 @@
-# SmartAgri - Crop Recommendation System
+# 🌽🌾SmartAgri - Crop Recommendation System
 A machine learning-powered system to recommend the most suitable crop based on soil and environmental parameters such as Nitrogen, Phosphorus, Potassium, temperature, humidity, pH, and rainfall.
 
 ## 🚀 Project Overview
@@ -68,8 +68,8 @@ http://localhost:8512/
 7. Using the App
 Enter values for soil and environmental parameters.
 *Click Recommend Crop*
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6e7d3737-04b4-43a9-b25d-e58c1b47d88b" /># 🌱
-See the recommended crop displayed instantly.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6e7d3737-04b4-43a9-b25d-e58c1b47d88b" />
+🌱See the recommended crop displayed instantly.
 
 - ⚙️ Important Notes:
 - The model was trained on scaled data; the app uses the same scaler to transform inputs before making predictions. This ensures accuracy and consistency.
