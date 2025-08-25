@@ -71,7 +71,7 @@ Enter values for soil and environmental parameters.
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6e7d3737-04b4-43a9-b25d-e58c1b47d88b" />
 
 ![Crop Recommend](Crop.png)
-![Crop Recommend](Crop1.png)
+![Crop Recommend](crop1.png)
 🌱See the recommended crop displayed instantly.
 
 - ⚙️ Important Notes:
